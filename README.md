@@ -1,2 +1,2 @@
 # web
-django web page
+React web page
